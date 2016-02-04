@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://fzgq.github.io/sitemap.xml 
