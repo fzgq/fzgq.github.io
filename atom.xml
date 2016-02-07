@@ -4,7 +4,7 @@
   <title><![CDATA[fzgq Blog]]></title>
   <link href="http://fzgq.github.io/atom.xml" rel="self"/>
   <link href="http://fzgq.github.io/"/>
-  <updated>2016-02-07T05:44:09-08:00</updated>
+  <updated>2016-02-07T06:13:04-08:00</updated>
   <id>http://fzgq.github.io/</id>
   <author>
     <name><![CDATA[fzgq]]></name>
@@ -15,10 +15,34 @@
   
   <entry>
     <title type="html"><![CDATA[Ios_basic_information]]></title>
-    <link href="http://fzgq.github.io/blog/2016/02/07/ios-basic-information/"/>
+    <link href="http://fzgq.github.io/blog/2016/02/07/ios%E5%9F%BA%E7%A1%80%E4%BF%A1%E6%81%AF/"/>
     <updated>2016-02-07T05:17:25-08:00</updated>
-    <id>http://fzgq.github.io/blog/2016/02/07/ios-basic-information</id>
-    <content type="html"><![CDATA[
+    <id>http://fzgq.github.io/blog/2016/02/07/ios基础信息</id>
+    <content type="html"><![CDATA[<h1>ios基础相关</h1>
+
+<p>@(ios基础相关)[IOS 设备发行与时间|xocde与osx、simulator |iphone版本和xcode|iphone产品版本和屏幕]</p>
+
+<h2>ios基础相关意在解决一些简单但是又非常实用的问题。</h2>
+
+<p>[TOC]</p>
+
+<hr />
+
+<h2>IOS 设备发行与时间</h2>
+
+<hr />
+
+<h2>xocde,osx,simulator</h2>
+
+<h2>当你想用ios6的simulator的时候，那你应该需要用什么样的xcode版本呢？当你需要某个特定版本的xcode，你需要什么样的osx呢？又可能你是个强迫症的患者，你就是想了解这些东西的关系？没问题，[xcode wiki][<a href="https://en.m.wikipedia.org/wiki/Xcode">https://en.m.wikipedia.org/wiki/Xcode</a>]一下，你就知道。</h2>
+
+<h2>iphone软件版本和xcode</h2>
+
+<hr />
+
+<h2>iphone产品版本和屏幕</h2>
+
+<hr />
 ]]></content>
   </entry>
   
