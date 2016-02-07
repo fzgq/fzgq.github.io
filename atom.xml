@@ -4,7 +4,7 @@
   <title><![CDATA[fzgq Blog]]></title>
   <link href="http://fzgq.github.io/atom.xml" rel="self"/>
   <link href="http://fzgq.github.io/"/>
-  <updated>2016-02-07T06:23:36-08:00</updated>
+  <updated>2016-02-07T07:35:47-08:00</updated>
   <id>http://fzgq.github.io/</id>
   <author>
     <name><![CDATA[fzgq]]></name>
@@ -41,6 +41,55 @@
 <hr />
 
 <h2>iphone产品版本和屏幕</h2>
+
+<hr />
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ios_basic_information]]></title>
+    <link href="http://fzgq.github.io/blog/2016/02/07/ios-basic-information/"/>
+    <updated>2016-02-07T05:17:25-08:00</updated>
+    <id>http://fzgq.github.io/blog/2016/02/07/ios-basic-information</id>
+    <content type="html"><![CDATA[<h1>ios基础相关</h1>
+
+<p>@(ios基础相关)[IOS 设备发行与时间|xocde与osx、simulator |iphone版本和xcode|iphone产品版本和屏幕]</p>
+
+<p>ios基础相关意在解决一些简单但是又非常实用的问题。</p>
+
+<hr />
+
+<p>[TOC]</p>
+
+<hr />
+
+<h2>xocde,osx,simulator</h2>
+
+<blockquote><p>当你想用ios6的simulator的时候，那你应该需要用什么样的xcode版本呢？当你需要某个特定版本的xcode，你需要什么样的osx呢？又可能你是个强迫症的患者，你就是想了解这些东西的关系？没问题!</p></blockquote>
+
+<p>  <a href="https://en.m.wikipedia.org/wiki/IOS_SDK">ios sdk wiki</a>, ctrl+F查找“iPhone OS 1.x: SDK”（第二个）。</p>
+
+<hr />
+
+<h2>iphone软件版本和xcode</h2>
+
+<p>  <a href="https://en.m.wikipedia.org/wiki/Xcode">xcode wiki</a>    ,ctrl+F查找“Version comparison table”(第二个)。</p>
+
+<hr />
+
+<h2>iphone产品版本和屏幕</h2>
+
+<p>   推荐<a href="http://blog.csdn.net/phunxm/article/details/42174937">iphone 屏幕尺寸</a>
+   而不是 <a href="https://en.m.wikipedia.org/wiki/List_of_iOS_devices#iPhone">List of iOS devices wiki</a>, ctrl+F查找“Current models”(第二个)</p>
+
+<hr />
+
+<h2>苹果产品发行与时间</h2>
+
+<p>  <a href="https://en.m.wikipedia.org/wiki/IOS">ios wiki</a>    ,ctrl+F查找“Main article: List of iOS devices”</p>
+
+<blockquote><p>该表清晰的表达的apple所有产品发布的时间
+根据wiki的特性，这表会及时的更新</p></blockquote>
 
 <hr />
 ]]></content>
